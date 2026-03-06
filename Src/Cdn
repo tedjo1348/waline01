@@ -10,7 +10,7 @@
 
     init({
       el: '#waline',
-      serverURL: 'https://waline01-sooty.vercel.app/',
+      serverURL: 'https://commento.ainzscans.net/',
       lang: 'en',
     });
   </script>
